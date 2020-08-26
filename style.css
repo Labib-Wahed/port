@@ -1,0 +1,141 @@
+body {
+	background-color: #ccffee;
+	color: #55555;
+	font: 18px Arial, Helvetica, sans-serif;
+	line-height: 1.0em;
+	margin: 1;
+}
+
+.container {
+
+	width: 40%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#header {
+	
+	width: 110%;
+	color: #55555
+}
+
+#pic{
+	  text-align: center;
+
+
+}
+
+#name{
+	background-color: #ffb3b3;
+	background-image: url('4.jpg');
+	background-position:center;
+	text-align: center;
+}
+
+
+#info {
+
+	float:left;
+	width: 100%;
+	text-align: left;
+	line-height: 1.8;
+
+	box-sizing: border-box;
+}
+
+#info h3{
+	color: #800080;
+}
+#contact {
+	line-height: 1.8;
+	float:right;
+	width:100%;
+	text-align: left;
+	
+	color: black;
+	box-sizing: border-box;;
+}
+
+#contact h3{
+
+	color: #800080;
+}
+#Accomplishments{
+	line-height: 1.8;
+	text-align: left;
+	width:100%;
+	color: black;
+}
+
+#Accomplishments h3{
+	color: #800080;
+
+}
+
+#Skills{
+	line-height: 1.8;
+	text-align: left;
+	width:100%;
+	color: black;
+}
+
+#Accomplishments h3{
+	color: #800080;
+
+}
+
+#Skills h3{
+	color: #800080;
+
+}
+
+.checked {
+  color: orange;
+}
+
+#star {
+	position: middle;
+	float:right;
+	width:80%;
+	color: black;
+	margin-top: -8.5%;
+	box-sizing: border-box;;
+}
+
+#star1 {
+	position: middle;
+	float:right;
+	width:80%;
+	color: black;
+	margin-top: -8.5%;
+	box-sizing: border-box;;
+}
+
+#star2 {
+	position: middle;
+	float:right;
+	width:80%;
+	color: black;
+	margin-top: -8.5%;
+	box-sizing: border-box;;
+}
+
+#star3 {
+	position: middle;
+	float:right;
+	width:80%;
+	color: black;
+	margin-top: -8.5%;
+	box-sizing: border-box;;
+}
+
+
+
+
+
+
+
+
+
+
+
